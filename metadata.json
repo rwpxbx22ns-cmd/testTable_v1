@@ -1,0 +1,5 @@
+{
+  "name": "NexusTable AI",
+  "description": "A sophisticated data management dashboard featuring interactive draggable columns and AI-powered data insights using Gemini 3.",
+  "requestFramePermissions": []
+}
